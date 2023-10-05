@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## Project 1
+## Project 1 - Netflix Movies and TV Shows
 
 <img height="300" src="Project1\KtXo.gif" />
 
